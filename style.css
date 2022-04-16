@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:400,700');
+body{
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+
+}
+.video-background{
+    position: relative;
+}
+
+#video video{
+    width:100%; 
+ 
+   
+   
+}
+.banner .content{
+  position: absolute;
+  top:0;
+  padding-top:150px;
+  width:100%;
+  color:white;
+  background-color: rgba(3, 3, 3, 0.571);
+  overflow: hidden;
+ 
+  
+}
+.content h1{
+    font-size:65px;
+}
+.content h4{
+    font-size:45px;
+}
+.content h2{
+    font-size:60px;
+    margin-top:40px;
+}
+.content h5{
+    font-size:20px;
+    margin-top:30px;
+  
+}
+.buton{
+    margin-top:30px;
+   
+}
+.buton button{
+    border-radius: 20px;
+    padding:10px 20px;
+    font-size:18px;
+}
